@@ -565,7 +565,7 @@
   display: flex;
   background-size: cover;
   justify-content: center;
-  background-image: linear-gradient(113.8deg, rgba(70, 150, 255, 0.8) 7.5%, rgba(70, 150, 255, 0.8) 94.47%);
+  background-color:#81cfcf;
   background-position: center;
 }
 .home-container29 {
